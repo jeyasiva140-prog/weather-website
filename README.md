@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SkyCast — Weather Report React App
 
 Responsive weather report app built with React, Axios and the OpenWeather API.
@@ -47,3 +48,6 @@ weather-report-react/
 ├── package.json
 └── vite.config.js
 ```
+=======
+# weather-website
+>>>>>>> cfd09710c9d5dc9735e2f1180521246d148e444e
